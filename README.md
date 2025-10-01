@@ -1,8 +1,11 @@
 # Actix Web + PASETO Tokens + Tanstack Router (With Tailwind + ShadCN UI)
 
 This is simplest template, it's not too cool but works really fine.
-Hope you like it, if not Contribute and Fix issues.
+Quick!
 
+> Hope you like it, if not! then Contribute and Fix the spawning issues.
+
+> Good News:
 All issues, pull requests are welcome in advanced here.
 
 
